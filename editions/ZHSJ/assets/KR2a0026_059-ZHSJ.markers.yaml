@@ -10,15 +10,18 @@ markers:
   - {type: line-break, offset: 7, content: '', id: ZHSJ__dup30796, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup30797, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 13, content: (, id: KR2a0026_ZHSJ_059-bkkpn1}
+  - {type: voice, offset: 13, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR2a0026_ZHSJ_059-bkkpn2}
   - {type: indent, offset: 16, content: 　, id: KR2a0026_ZHSJ_059-bkkind1}
   - {type: indent, offset: 18, content: 　, id: KR2a0026_ZHSJ_059-bkkind2}
   - {type: punctuation, offset: 21, content: (, id: KR2a0026_ZHSJ_059-bkkpn3}
+  - {type: voice, offset: 21, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 25, content: ), id: KR2a0026_ZHSJ_059-bkkpn4}
   - {type: indent, offset: 25, content: 　, id: KR2a0026_ZHSJ_059-bkkind3}
   - {type: indent, offset: 28, content: 　, id: KR2a0026_ZHSJ_059-bkkind4}
   - {type: indent, offset: 28, content: 　, id: KR2a0026_ZHSJ_059-bkkind5}
   - {type: punctuation, offset: 31, content: (, id: KR2a0026_ZHSJ_059-bkkpn5}
+  - {type: voice, offset: 31, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 34, content: ), id: KR2a0026_ZHSJ_059-bkkpn6}
   - {type: xml-element, offset: 34, content: '', id: KR2a0026_ZHSJ_059-bkkxmlele2, name: p, role: close}
   - {type: xml-element, offset: 34, content: '', id: KR2a0026_ZHSJ_059-bkkxmlele3, name: p, role: open}
@@ -2937,4 +2940,4 @@ markers:
   - {type: xml-element, offset: 7100, content: '', id: KR2a0026_ZHSJ_059-d59n1, name: note, role: open, attrs: {'xml:id': KR2a0026_ZHSJ_059-d59n1, type: text-crit}}
   - {type: xml-element, offset: 7100, content: '', id: KR2a0026_ZHSJ_059-d59n1_end, name: note, role: close, attrs: {'xml:id': KR2a0026_ZHSJ_059-d59n1, type: text-crit}}
   back: []
-hash: sha256:68c6c95185c29e008b87242dc163826d8344f9c4ad856e634b428ea6305c4334
+hash: sha256:1500643793cee9ee0d788a3cc4ad1e56eb724471bfa0b8d791ea1027e2355f86

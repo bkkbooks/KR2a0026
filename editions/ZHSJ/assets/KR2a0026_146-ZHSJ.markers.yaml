@@ -10,12 +10,14 @@ markers:
   - {type: line-break, offset: 9, content: '', id: ZHSJ__dup52081, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: line-break, offset: 15, content: '', id: ZHSJ__dup52082, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 18, content: (, id: KR2a0026_ZHSJ_146-bkkpn1}
+  - {type: voice, offset: 18, length: 12, name: note, id: n1}
   - {type: indent, offset: 21, content: 　, id: KR2a0026_ZHSJ_146-bkkind1}
   - {type: indent, offset: 23, content: 　, id: KR2a0026_ZHSJ_146-bkkind2}
   - {type: indent, offset: 25, content: 　, id: KR2a0026_ZHSJ_146-bkkind3}
   - {type: punctuation, offset: 30, content: ), id: KR2a0026_ZHSJ_146-bkkpn2}
   - {type: indent, offset: 30, content: 　, id: KR2a0026_ZHSJ_146-bkkind4}
   - {type: punctuation, offset: 33, content: (, id: KR2a0026_ZHSJ_146-bkkpn3}
+  - {type: voice, offset: 33, length: 14, name: note, id: n2}
   - {type: indent, offset: 36, content: 　, id: KR2a0026_ZHSJ_146-bkkind5}
   - {type: indent, offset: 38, content: 　, id: KR2a0026_ZHSJ_146-bkkind6}
   - {type: line-break, offset: 40, content: '', id: ZHSJ__dup52083, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
@@ -23,6 +25,7 @@ markers:
   - {type: punctuation, offset: 47, content: ), id: KR2a0026_ZHSJ_146-bkkpn4}
   - {type: indent, offset: 47, content: 　, id: KR2a0026_ZHSJ_146-bkkind8}
   - {type: punctuation, offset: 50, content: (, id: KR2a0026_ZHSJ_146-bkkpn5}
+  - {type: voice, offset: 50, length: 19, name: note, id: n3}
   - {type: indent, offset: 53, content: 　, id: KR2a0026_ZHSJ_146-bkkind9}
   - {type: indent, offset: 58, content: 　, id: KR2a0026_ZHSJ_146-bkkind10}
   - {type: indent, offset: 60, content: 　, id: KR2a0026_ZHSJ_146-bkkind11}
@@ -4904,4 +4907,4 @@ markers:
   - {type: xml-element, offset: 12074, content: '', id: KR2a0026_ZHSJ_146-d146n1, name: note, role: open, attrs: {'xml:id': KR2a0026_ZHSJ_146-d146n1, type: text-crit}}
   - {type: xml-element, offset: 12074, content: '', id: KR2a0026_ZHSJ_146-d146n1_end, name: note, role: close, attrs: {'xml:id': KR2a0026_ZHSJ_146-d146n1, type: text-crit}}
   back: []
-hash: sha256:36444275c961b85e6d1d605c6023fc3dbf9bcaba2d97dbf11fa3e4f8fb29c5a1
+hash: sha256:83c33f9a1e18fb32e3e0cbff78e0774426cf282d25306465aa9527c5c30e38cd
